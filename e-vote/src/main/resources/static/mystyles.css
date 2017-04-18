@@ -1,0 +1,20 @@
+#myblue {
+	color: blue;
+	font size: 12px
+}
+
+.mygreen {
+	color: green;
+	font size: 8px
+}
+
+.mycontainer{
+border-color: black;
+ border-width: 20px;
+ background-color: aqua;
+}
+
+.myposition{
+	position:relative;
+	float: right;
+}
